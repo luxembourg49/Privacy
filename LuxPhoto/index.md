@@ -5,38 +5,46 @@ title: LuxPhoto Privacy Policy
 
 # LuxPhoto Privacy Policy
 
-**Last updated:** [Month Day, Year]
+**Effective date: September 3, 2026**
 
-[Your company or developer name] built LuxPhoto. This privacy policy explains how LuxPhoto handles information when you use the app.
+LuxPhoto is designed to keep your work under your control. LuxPhoto does not include advertising or third-party analytics, and the developer does not collect, sell, or use your data for tracking.
 
-## Information We Collect
+## Photos and camera data
 
-[Describe every type of information the app collects, such as photos, account information, device identifiers, diagnostics, usage data, or location. If the app collects no information, replace this section with: "LuxPhoto does not collect, store, or share personal information."]
+LuxPhoto uses the camera to capture photos and scan workflow QR codes. Camera frames, QR contents, focus information, and depth data are processed on your device. Photos are saved to the location you choose: LuxPhoto’s local folder, iCloud Drive, or another folder selected through Apple’s system folder picker.
 
-## How We Use Information
+If you choose to save a photo to your Photo Library, LuxPhoto requests add-only Photo Library access. LuxPhoto does not request permission to read your Photo Library.
 
-[Describe why each type of collected information is used.]
+## Transfers you choose
 
-## Sharing of Information
+You can configure LuxPhoto to send photos to an SMB server or NAS. The app connects directly from your device to the server you provide. These transfers are initiated and controlled by you; the developer does not receive the photos or server data.
 
-[State whether information is shared with third parties. Name relevant service providers, analytics providers, advertising partners, or state that information is not shared.]
+iCloud Drive storage is provided by Apple and is subject to your Apple account settings and Apple’s privacy terms. SMB servers and other selected storage providers are subject to the policies of their respective operators.
 
-## Photos and Device Permissions
+## Server details and QR codes
 
-[Explain why the app requests photo-library, camera, microphone, location, notification, or other permissions. Remove permissions the app does not request.]
+Server addresses, usernames, passwords, app preferences, session identifiers, and upload status are stored on your device so the app can perform the workflow you configure. Some upload-status information may be stored beside your photos. QR codes used for session assignment or server setup are processed locally. Only scan server-setup codes from sources you trust.
 
-## Data Retention and Deletion
+## Bluetooth, NFC, and external cameras
 
-[Explain how long information is retained and how a user can request deletion, if applicable.]
+Bluetooth is used to discover and control compatible external lights and flashes. NFC is used when you choose to read or configure a compatible COLBOR light tag. Connected cameras and card readers are accessed only when you use the external import feature. Accessory interactions are processed locally.
 
-## Children's Privacy
+## Local network
 
-[State whether the app is directed to children and how it handles children's data.]
+Local network access is used only to connect to SMB servers or NAS devices that you configure. LuxPhoto does not use local network access for advertising or tracking.
 
-## Changes to This Policy
+## Data retention and deletion
 
-We may update this privacy policy from time to time. We will update the "Last updated" date when we do.
+Photos remain in the storage location you selected until you delete them. Saved settings and server configurations remain until you remove them in the app or delete the app. Upload-status records older than approximately six months may be removed automatically. Data stored in iCloud Drive, a selected folder, or an external server may remain after the app is deleted and must be removed from that service or location separately.
 
-## Contact Us
+## Children’s privacy
 
-For questions about this privacy policy, contact us at [privacy@example.com].
+LuxPhoto is a professional workflow tool and is not directed to children. The developer does not knowingly collect personal information from children.
+
+## Changes
+
+This policy may be updated when LuxPhoto’s features or privacy practices change. The effective date above will be revised when that happens.
+
+## Contact
+
+For privacy questions, use the support contact listed on LuxPhoto’s App Store page.
