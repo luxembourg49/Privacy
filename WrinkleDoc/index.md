@@ -3,72 +3,68 @@ layout: default
 title: WrinkleDoc Privacy Policy
 ---
 
-**GDPR Privacy Policy for WrinkleDoc**
+[← Back to Privacy Policies](../)
 
-    WrinkleDoc app is managed by the Company XXX. This privacy policy will explain how we use
-    the personal data we collect from you when WrinkleDoc is used.
-    
-    1) Data Controller
-    WrinkleDoc acts as the Data Controller for all personal data processed through the application.
-    
-    2) What data do we collect?
-    WrinkleDoc collects the following data:
-    
-     Personal identification information (Name, email address, phone number, etc.)
-     Face photo’s
-     Patient name or identifier (visible in the photo)
-     Medical injection points
-     Metadata (date/time, device info)
-     Doctor account information (if applicable)
-     [XXX]
-    
-    3) How do we collect your data?
-    WrinkleDoc collects data and processes data when you:
-     (XXX)
-    
-    4) Legal Basis for Processing
-    Processing is based on explicit consent from the patient.
-    
-    5) How will we use your data?
-    WrinkleDoc collects your data so that we can capture the patient identifiers and mark muscle
-    relaxer injection points for medical use and documentation.
-    If you agree, we will share your data with our partner companies so that they may offer you
-    additional services or use the data points for AI usage.
+# WrinkleDoc Privacy Policy
 
-    6) How do we store your data?
-    WrinkleDoc securely stores your data at [enter the location and describe security precautions
-    taken].
-    We will keep your personal data for a period of 1 year. Once this time period has expired, we
-    will delete your data by [enter how you delete users’ data].
-    
-    7) What are your data protection rights?
-    We would like to make sure you are fully aware of all of your data protection rights. Every user
-    is entitled to the following:
-    The right to access – You have the right to request us for copies of your personal data. We may
-    charge you a small fee for this service.
-    The right to rectification – You have the right to request that we correct any information you
-    believe is inaccurate. You also have the right to request us to complete the information you
-    believe is incomplete.
-    The right to erasure – You have the right to request that we erase your personal data, under
-    certain conditions.
-    The right to restrict processing – You have the right to request that we restrict the processing of
-    your personal data, under certain conditions.
-    The right to object to processing – You have the right to object to us processing of your
-    personal data, under certain conditions.
-    The right to data portability – You have the right to request that we transfer the data that we
-    have collected to another organization, or directly to you, under certain conditions.
-    If you make a request, we have one month to respond to you. If you would like to exercise any
-    of these rights, please contact us at our email:
-    
-    8) Changes to our privacy policy
-    We keep our privacy policy under regular review and places any updates on this web page. This
-    privacy policy was last updated on 22 March 2026.
-    
-    9) Data Breach Procedure
-    WrinkleDoc will notify authorities within 72 hours of a breach involving personal data.
-    
-    10) How to contact us
+**Last updated: March 22, 2026**
 
-    If you have any questions about our privacy policy, the data we hold on you, or you would like to
-    exercise one of your data protection rights, please do not hesitate to contact us.
-    Email us at: info@mediclinic.be
+WrinkleDoc is a clinical documentation app used by medical professionals to record patient identifiers and muscle-relaxer injection points. This policy explains what data WrinkleDoc processes, why, and what rights you have under the GDPR.
+
+## 1. Data Controller
+
+WrinkleDoc is managed by **[Company Name]**, which acts as the Data Controller for personal data processed through the application.
+
+## 2. What data do we collect?
+
+WrinkleDoc may collect and process:
+
+- Personal identification information (name, email address, phone number)
+- Face photos
+- Patient name or identifier, where visible in a photo
+- Medical injection points and related annotations
+- Metadata such as date, time, and device information
+- Doctor or clinician account information, where applicable
+
+## 3. How do we collect your data?
+
+Data is collected directly when a clinician uses WrinkleDoc to photograph a patient, record injection points, or create an account within the app.
+
+## 4. Legal basis for processing
+
+Processing is based on the explicit consent of the patient, given prior to any photo or data being recorded.
+
+## 5. How we use your data
+
+WrinkleDoc uses patient identifiers and injection-point data to support medical documentation and treatment records. Where you have separately consented, data may also be shared with partner services for additional features, such as AI-assisted analysis.
+
+## 6. How we store your data
+
+Data is stored securely at **[storage location and security measures]**. Personal data is retained for **1 year** from the date of collection, after which it is deleted by **[deletion method]**.
+
+## 7. Your data protection rights
+
+Under the GDPR, you have the right to:
+
+- **Access** – request a copy of the personal data we hold about you
+- **Rectification** – request correction of inaccurate or incomplete data
+- **Erasure** – request deletion of your personal data, under certain conditions
+- **Restrict processing** – request that we limit how your data is processed
+- **Object** – object to our processing of your data
+- **Data portability** – request that your data be transferred to another organization or to you directly
+
+We will respond to any request within one month. To exercise any of these rights, contact us using the details below.
+
+## 8. Changes to this policy
+
+This privacy policy is reviewed regularly, and any updates will be posted on this page. This policy was last updated on March 22, 2026.
+
+## 9. Data breach procedure
+
+In the event of a data breach involving personal data, WrinkleDoc will notify the relevant authorities within 72 hours.
+
+## 10. Contact us
+
+If you have questions about this privacy policy, the data we hold about you, or wish to exercise your data protection rights, please contact us at:
+
+**info@mediclinic.be**

@@ -3,6 +3,8 @@ layout: default
 title: LuxPhoto Privacy Policy
 ---
 
+[← Back to Privacy Policies](../)
+
 # LuxPhoto Privacy Policy
 
 **Effective date: September 3, 2026**
