@@ -1,6 +1,7 @@
 ---
 layout: default
 title: WrinkleDoc Privacy Policy
+permalink: /WrinkleDoc/
 ---
 
 [← Back to Privacy Policies](../)

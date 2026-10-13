@@ -1,6 +1,7 @@
 ---
 layout: default
 title: LuxPhoto Privacy Policy
+permalink: /LuxPhoto/
 ---
 
 [← Back to Privacy Policies](../)
