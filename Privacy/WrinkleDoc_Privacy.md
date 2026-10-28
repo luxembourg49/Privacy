@@ -14,7 +14,7 @@ WrinkleDoc is a clinical documentation app used by medical professionals to reco
 
 ## 1. Data Controller
 
-WrinkleDoc is managed by **[Company Name]**, which acts as the Data Controller for personal data processed through the application.
+WrinkleDoc is managed by Lux49, which acts as the Data Controller for personal data processed through the application.
 
 ## 2. What data do we collect?
 
@@ -41,7 +41,7 @@ WrinkleDoc uses patient identifiers and injection-point data to support medical 
 
 ## 6. How we store your data
 
-Data is stored securely at **[storage location and security measures]**. Personal data is retained for **1 year** from the date of collection, after which it is deleted by **[deletion method]**.
+Data is stored securely at the device, we do not collect any data.
 
 ## 7. Your data protection rights
 
@@ -68,5 +68,4 @@ In the event of a data breach involving personal data, WrinkleDoc will notify th
 
 If you have questions about this privacy policy, the data we hold about you, or wish to exercise your data protection rights, please contact us at:
 
-**+352 28 48 08 07**
 **info@lux49.lu**
