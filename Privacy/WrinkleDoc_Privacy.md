@@ -68,4 +68,5 @@ In the event of a data breach involving personal data, WrinkleDoc will notify th
 
 If you have questions about this privacy policy, the data we hold about you, or wish to exercise your data protection rights, please contact us at:
 
-**info@mediclinic.be**
+**+352 28 48 08 07**
+**info@lux49.lu**
